@@ -1,7 +1,4 @@
 # Hi there im Matesoidicek.
 
-## And im curently learning:
-###                         - Python
-###                         - Html
-###                         - Css
-###                         - JavaScipt
+### And Im curently learning how to do: Bots, Webs and Games.
+
