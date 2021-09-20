@@ -1,7 +1,7 @@
 # Hi there im Matesoidicek.
 
 ## And im curently learning:
-                            - Python
-                            - Html
-                            - Css
-                            - JavaScipt
+###                         - Python
+###                         - Html
+###                         - Css
+###                         - JavaScipt
